@@ -18,8 +18,8 @@
             app:layout_constraintTop_toTopOf="parent">
 
         <com.krzysztofbalana.buttonsbar.ui.ButtonBarItem
-                app:buttonText="Profile"
-                app:buttonIcon="@drawable/ic_profile_icon"
+                app:buttonText="Profile lorem"
+                app:buttonIcon="@drawable/ic_default_icon"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"/>
 
