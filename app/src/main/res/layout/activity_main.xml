@@ -25,13 +25,13 @@
 
         <com.krzysztofbalana.buttonsbar.ui.ButtonBarItem
                 app:buttonText="Search Results"
-                app:buttonIcon="@drawable/ic_list_icon"
+                app:buttonIcon="@drawable/ic_default_icon"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"/>
 
         <com.krzysztofbalana.buttonsbar.ui.ButtonBarItem
                 app:buttonText="Data Charts"
-                app:buttonIcon="@drawable/ic_chart_icon"
+                app:buttonIcon="@drawable/ic_default_icon"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"/>
 
